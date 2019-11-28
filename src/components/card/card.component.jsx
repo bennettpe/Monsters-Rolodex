@@ -1,6 +1,7 @@
 import React from 'react';
 import './card.styles.css';
 
+/* card-container for monster */
 export const Card =props => (
     <div className='card-container'>
     <img 
